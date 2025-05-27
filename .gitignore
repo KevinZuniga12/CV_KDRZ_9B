@@ -35,3 +35,5 @@ build/
 ### MacOs ###
 .DS_Store
 **/.-DS_Store?
+
+### Eclipse ###
