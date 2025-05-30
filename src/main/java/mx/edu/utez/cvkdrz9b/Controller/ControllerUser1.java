@@ -1,7 +1,7 @@
 package mx.edu.utez.cvkdrz9b.Controller;
 
 public class ControllerUser1 {
-
+//saludar y mostrar información para el usuario 1
     public void saludar() {
         System.out.println("¡Hola! Soy el controlador de User1.");
     }
